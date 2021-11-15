@@ -1,0 +1,81 @@
+{
+  "articulos": [
+    {
+      "id": "FJD32",
+      "nombre:": "Colchoneta-Roja",
+      "precio": "65.00",
+      "marca:": "ACCECAN",
+      "stock": "20"
+    },
+    {
+      "id": "FJR51",
+      "nombre:": "Pollo-amarillo",
+      "precio": "25.00",
+      "marca:": "ACCECAN",
+      "stock": "50"
+    },
+    {
+      "id": "FJD40",
+      "nombre:": "Pelota-plastico-huellitas-naranja",
+      "precio": "12.00",
+      "marca:": "ACCECAN",
+      "stock": "40"
+    },
+    {
+      "id": "3KA2D",
+      "nombre": "cepillo universal",
+      "precio": "13.90",
+      "marca": "ACCECAN",
+      "stock": "23"
+    },
+    {
+      "id": "3ER3D",
+      "nombre": "Plato Anti Ansiedad Rosado",
+      "precio": "24.90",
+      "marca": "ACCECAN",
+      "stock": "15"
+    },
+    {
+      "id": "QWOP8",
+      "nombre": "Transportadora para perro L-40",
+      "precio": "139.90",
+      "marca": "Home Tools",
+      "stock": "35"
+    },
+    {
+      "id": "01m01",
+      "nombre": "Hueso-Carnaza",
+      "precio": "8.00",
+      "marca": "ACCE CAN",
+      "Stock": "60"
+    },
+    {
+      "id": "02m02",
+      "nombre": "Collar Antipulga y Garrapatas",
+      "precio": "80.00",
+      "marca": "Generico",
+      "Stock": "40"
+    },
+    {
+      "id": "03m03",
+      "nombre": "Sprite_Antipulgas",
+      "precio": "30.00",
+      "marca": "mdTech",
+      "Stock": "40"
+    },
+    {
+      "id": "04m04",
+      "nombre": "Antipiético",
+      "precio": "37.00",
+      "marca": "Vetalgina",
+      "Stock": "30"
+    },
+    {
+      "id": "",
+      "nombre:": "",
+      "precio": "",
+      "marca:": "",
+      "stock": ""
+    }
+  ]
+}
